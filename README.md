@@ -1,0 +1,1 @@
+A forum website template built with Spring MVC, Hibernate and Mysql. Bootstrap is used as javascript template.
